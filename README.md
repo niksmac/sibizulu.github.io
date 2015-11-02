@@ -1,1 +1,2 @@
-# sibizulu.github.io
+# [sibizulu.github.io](http://sibizulu.github.io)
+
